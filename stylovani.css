@@ -1,0 +1,81 @@
+
+body { background-color: yellow;
+       text-align: center;
+      
+
+}
+p { font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    border-style: dotted;
+
+}
+h1 {border-style: dashed;
+
+}
+.logo { text-align: center;
+        height: 200px;
+        width: 200px;
+
+}
+.valentino_rossi {height: 300px;
+                  width: 400px;
+
+
+}
+.menu {  background-color: greenyellow;
+         width: 200px;
+         height: 25px;
+         position: absolute;
+         top: 700px;
+         left: 150px;
+         text-align: center;
+}
+.menu_2 { background-color: greenyellow;
+         width: 200px;
+         height: 25px;
+         position: absolute;
+         top: 700px;
+         left: 1500px;
+         text-align: center;
+}
+.menu_3 {  background-color: greenyellow;
+           width: 200px;
+           height: 25px;
+           position: absolute;
+           top:1700px;
+           left:1500px ;
+           text-align: center;
+}
+.menu_4 {background-color: greenyellow;
+        width: 200px;
+        height: 25px;
+        position: absolute;
+        top:900px;
+        left:1500px ;
+        text-align: center;
+}
+.rossi_dite{ height: 300px;
+             width:400px ;
+
+}
+.rossi_child_2 {height: 300px;
+                width: 400px;
+
+}
+.rossi_titul {height: 300px;
+              width: 500px;
+
+}
+.gt { height: 300px;
+      width: 500px;
+
+}
+table { width: 100%;
+        border-collapse: collapse;
+ }
+ th, td {background-color: yellowgreen;
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+  }
+    
+
